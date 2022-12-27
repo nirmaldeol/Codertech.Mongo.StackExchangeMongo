@@ -1,0 +1,10 @@
+C:\Users\nirmaldeol\Documents\CommonOperationsService\Abp.Mongo.Caching\bin\Debug\netstandard2.0\Abp.Mongo.StackExchangeMongo.deps.json
+C:\Users\nirmaldeol\Documents\CommonOperationsService\Abp.Mongo.Caching\bin\Debug\netstandard2.0\Abp.Mongo.StackExchangeMongo.dll
+C:\Users\nirmaldeol\Documents\CommonOperationsService\Abp.Mongo.Caching\bin\Debug\netstandard2.0\Abp.Mongo.StackExchangeMongo.pdb
+C:\Users\nirmaldeol\Documents\CommonOperationsService\Abp.Mongo.Caching\obj\Debug\netstandard2.0\Abp.Mongo.StackExchangeMongo.csproj.AssemblyReference.cache
+C:\Users\nirmaldeol\Documents\CommonOperationsService\Abp.Mongo.Caching\obj\Debug\netstandard2.0\Abp.Mongo.StackExchangeMongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nirmaldeol\Documents\CommonOperationsService\Abp.Mongo.Caching\obj\Debug\netstandard2.0\Abp.Mongo.StackExchangeMongo.AssemblyInfoInputs.cache
+C:\Users\nirmaldeol\Documents\CommonOperationsService\Abp.Mongo.Caching\obj\Debug\netstandard2.0\Abp.Mongo.StackExchangeMongo.AssemblyInfo.cs
+C:\Users\nirmaldeol\Documents\CommonOperationsService\Abp.Mongo.Caching\obj\Debug\netstandard2.0\Abp.Mongo.StackExchangeMongo.csproj.CoreCompileInputs.cache
+C:\Users\nirmaldeol\Documents\CommonOperationsService\Abp.Mongo.Caching\obj\Debug\netstandard2.0\Abp.Mongo.StackExchangeMongo.dll
+C:\Users\nirmaldeol\Documents\CommonOperationsService\Abp.Mongo.Caching\obj\Debug\netstandard2.0\Abp.Mongo.StackExchangeMongo.pdb

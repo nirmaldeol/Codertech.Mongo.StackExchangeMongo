@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Abp.Mongo.Caching
+build_property.ProjectDir = C:\Users\nirmaldeol\Documents\CommonOperationsService\Abp.Mongo.Caching\
