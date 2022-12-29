@@ -4,7 +4,7 @@ using MongoDB.Driver;
 using System.Threading;
 using Microsoft.Extensions.Caching.Distributed;
 
-namespace Abp.Caching.MongoCache
+namespace Codertech.Caching.MongoCache
 {
     public class MongoContext
     {

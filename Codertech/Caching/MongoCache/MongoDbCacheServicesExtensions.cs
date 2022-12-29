@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Abp.Caching.MongoCache
+namespace Codertech.Caching.MongoCache
 {
     public static class MongoDbCacheServicesExtensions
     {

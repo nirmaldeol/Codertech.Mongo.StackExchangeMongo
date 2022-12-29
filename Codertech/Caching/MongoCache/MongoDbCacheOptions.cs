@@ -2,7 +2,7 @@ using System;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 
-namespace Abp.Caching.MongoCache
+namespace Codertech.Caching.MongoCache
 {
     public class MongoDbCacheOptions : IOptions<MongoDbCacheOptions>
     {

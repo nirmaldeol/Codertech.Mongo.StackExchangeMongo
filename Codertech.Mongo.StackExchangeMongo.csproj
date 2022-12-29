@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-	  <AssemblyName>Abp.Mongo.StackExchangeMongo</AssemblyName>
-	  <PackageId>Abp.Mongo.StackExchangeMongo</PackageId>
+	  <AssemblyName>Codertech.Mongo.StackExchangeMongo</AssemblyName>
+	  <PackageId>Codertech.Mongo.StackExchangeMongo</PackageId>
 	  <AssetTargetFallback>$(AssetTargetFallback);portable-net45+win8+wp8+wpa81;</AssetTargetFallback>
 	  <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
 	  <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>

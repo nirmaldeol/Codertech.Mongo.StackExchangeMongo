@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 using System.Threading;
 using Volo.Abp;
 using Volo.Abp.Caching;
-using Abp.Caching.MongoCache;
+using Codertech.Caching.MongoCache;
 
-namespace Abp.Mongo.StackExchangeMongo
+namespace Codertech.Mongo.StackExchangeMongo
 {
     public class AbpMongoCache : MongoDbCache, ICacheSupportsMultipleItems
     {

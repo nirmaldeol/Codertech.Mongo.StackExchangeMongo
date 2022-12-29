@@ -1,7 +1,7 @@
 using System;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace Abp.Caching.MongoCache
+namespace Codertech.Caching.MongoCache
 {
     internal class CacheItem
     {

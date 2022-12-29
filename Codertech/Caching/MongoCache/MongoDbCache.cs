@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Microsoft.Extensions.Caching.Distributed;
 using Microsoft.Extensions.Options;
 
-namespace Abp.Caching.MongoCache
+namespace Codertech.Caching.MongoCache
 {
     public class MongoDbCache : IDistributedCache
     {

@@ -4,9 +4,9 @@ using System;
 using System.Collections.Generic;
 using Volo.Abp.Modularity;
 using Microsoft.Extensions.Caching.Distributed;
-using Abp.Caching.MongoCache;
+using Codertech.Caching.MongoCache;
 
-namespace Abp.Mongo.StackExchangeMongo
+namespace Codertech.Mongo.StackExchangeMongo
 {
     public class AbpCachingStackExchangeMongoModule: AbpModule
     {
