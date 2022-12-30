@@ -6,9 +6,9 @@ using Volo.Abp.Modularity;
 using Microsoft.Extensions.Caching.Distributed;
 using Codertech.Caching.MongoCache;
 
-namespace Codertech.Mongo.StackExchangeMongo
+namespace Codertech.Caching.StackExchangeMongo
 {
-    public class AbpCachingStackExchangeMongoModule: AbpModule
+    public class CoderTechCachingStackExchangeMongoModule: AbpModule
     {
         public override void ConfigureServices(ServiceConfigurationContext context)
         {
@@ -32,7 +32,7 @@ namespace Codertech.Mongo.StackExchangeMongo
                     }
                 });
 
-                context.Services.Replace(ServiceDescriptor.Singleton<IDistributedCache, AbpMongoCache>());
+                context.Services.Replace(ServiceDescriptor.Singleton<IDistributedCache, CoderTechMongoCache>());
             }
         }
     }
