@@ -1,28 +1,26 @@
 ﻿using Microsoft.Extensions.Caching.Distributed;
 using Microsoft.Extensions.Options;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection;
 using System.Threading.Tasks;
 using System.Threading;
 using Volo.Abp;
 using Volo.Abp.Caching;
 using Codertech.Caching.MongoCache;
 
-namespace Codertech.Mongo.StackExchangeMongo
+namespace Codertech.Caching.StackExchangeMongo
 {
-    public class AbpMongoCache : MongoDbCache, ICacheSupportsMultipleItems
+    public class CoderTechMongoCache : MongoDbCache, ICacheSupportsMultipleItems
     {
 
         protected string Instance { get; }
 
-        static AbpMongoCache()
+        static CoderTechMongoCache()
         {
            
         }
 
-        public AbpMongoCache(IOptions<MongoDbCacheOptions> optionsAccessor)
+        public CoderTechMongoCache(IOptions<MongoDbCacheOptions> optionsAccessor)
             : base(optionsAccessor)
         {
             Instance = optionsAccessor.Value.InstanceName ?? string.Empty;
